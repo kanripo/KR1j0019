@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.052478
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0028-004説文解字繫傳-卷第四.
 <pb:KR1j0019_SBCK_004-1a>¶
 (書曰文王惟正之供反正/不供也故曰乏符法反)¶
 　　　　文二　重二¶
@@ -211,4 +215,3 @@
 <pb:KR1j0019_SBCK_004-15b>¶
 <pb:KR1j0019_SBCK_004-15b>¶
 <pb:KR1j0019_SBCK_004-15b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.303389
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0028-010説文解字繫傳-卷第十.
 <pb:KR1j0019_SBCK_010-1a>¶
 &KR0003;文解字通釋卷第十¶
 　　　　　　繫傳十¶
@@ -213,4 +217,3 @@
 (周禮廬人試廬炙諸牆以視其橈之均廬茅㦸柄也謂柱/於兩牆輓而内之本末勝&KR0018;可知言&KR0004;本貫未勁也炙爰)¶
 (疚從此/幾柳反)¶
 <pb:KR1j0019_SBCK_010-19b>¶
-

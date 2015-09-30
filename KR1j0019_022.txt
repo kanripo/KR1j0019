@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.834927
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 22
+#+PROPERTY: FILE SB01n0028-022説文解字繫傳-卷第二十二.
 <pb:KR1j0019_SBCK_022-1a>¶
 (古文&KR1457;從田/巛&KR0908;之川也/&KR0144;古&KR1457;從田犬聲/六畎而為一畒)¶
 　　　　文　一　重　二¶
@@ -164,4 +168,3 @@
 (回飛疾也從卂營省声臣/鍇曰詩借為癏字葵名反)¶
 　　　　文二¶
 　&KR0003;文解字通釋卷第二十二¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.221754
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0028-008説文解字繫傳-卷第八.
 <pb:KR1j0019_SBCK_008-1a>¶
 (亦象形字/卑聿反/棄除也從廾推&KR3790;棄采也官溥&KR0003;佀米而/非米者矢字臣鍇曰此佀米糞除也&KR0053;豆)¶
 (恭反兩手佀米/字音瓣方問反/捐也從収推&KR3790;棄也從㐬㐬逆子/也臣鍇曰逆故推之也耎利反)¶
@@ -226,4 +230,3 @@
 <pb:KR1j0019_SBCK_008-21a>¶
 &KR0003;文解字通釋卷第八¶
 <pb:KR1j0019_SBCK_008-21b>¶
-

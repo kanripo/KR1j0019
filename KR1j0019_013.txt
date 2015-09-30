@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.440769
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB01n0028-013説文解字繫傳-卷第十三.
 <pb:KR1j0019_SBCK_013-1a>¶
 (四時也從日/寺声神持反/古文從日之作臣/鍇曰之声日之/晨也從日/在甲上古)¶
 (文甲字臣鍇曰甲十干/之首又象人頭子草反/尚&KR0115;也從日勿声臣鍇曰/今史記作昒同呼兀反)¶
@@ -344,4 +348,3 @@
 (&KR0984;子也從&KR1832;台者從辝省声臣鍇曰枲&KR0984;有子/若周官有典絲枲淮南子曰位賤尚枲辛子反)¶
 <pb:KR1j0019_SBCK_013-27b>¶
 <pb:KR1j0019_SBCK_013-27b>¶
-

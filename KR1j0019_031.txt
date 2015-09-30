@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.220433
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 31
+#+PROPERTY: FILE SB01n0028-031説文解字繫傳-卷第三十一.
 <pb:KR1j0019_SBCK_031-1a>¶
 (次之/以/一也/自/而起者屮/故次之以/屮艸之&KR0004;也/故次之以)¶
 (艸之深爲蓐/故次之以/蓐之廣博爲/茻故次之以/三者皆屮之屬也丨/&KR0004;分爲小小才可分)¶
@@ -111,4 +115,3 @@
 (故次/之以/白帛之敝/故次之以/㡀而黹之/故次之以)¶
 &KR0003;文解字繫傳第三十一¶
 <pb:KR1j0019_SBCK_031-8a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.181605
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 30
+#+PROPERTY: FILE SB01n0028-030説文解字繫傳-卷第三十.
 <pb:KR1j0019_SBCK_030-1a>¶
 &KR0003;文解字通釋第三¶
 　　　　繫傳三十¶
@@ -68,4 +72,3 @@
 勑勿謝¶
 <pb:KR1j0019_SBCK_030-6a>¶
 &KR0003;文解字通釋第三十¶
-

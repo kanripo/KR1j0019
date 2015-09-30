@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.335700
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 34
+#+PROPERTY: FILE SB01n0028-034説文解字繫傳-卷第三十四.
 <pb:KR1j0019_SBCK_034-1a>¶
 &KR0003;文解字通論中第三十四¶
 　　　　繫傳三十四¶
@@ -111,4 +115,3 @@
 (戴巳歟問於在朝在朝不知問於在野在野不知乃微服/而之康衢聞逰童子之&KR0084;於疆畔者曰立我烝民莫匪爾)¶
 (極不識不知順帝之則問誰爲此&KR0084;者曰聞於長老問諸/長老曰古詩也此和之極也和之始也損益之切劘之剛)¶
 <pb:KR1j0019_SBCK_034-10b>¶
-

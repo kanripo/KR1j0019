@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.050450
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 27
+#+PROPERTY: FILE SB01n0028-027説文解字繫傳-卷第二十七.
 <pb:KR1j0019_SBCK_027-1a>¶
 (古文金臣鍇曰/&KR0935;上皆象金形/白金也從金/㫐声言陳反/白金从金尞/声臣鍇曰尔)¶
 (雅其羙者謂/之鐐梨桃反/白金也從金沃声臣鍇按/詩曰隂靷鋈續晼毒反/青金也/從金㕣)¶
@@ -232,4 +236,3 @@
 　　　文九十九　重八(臣次立曰今重六/&KR0024;遺/棿二字)¶
 &KR0003;文解字通釋卷苐二十七¶
 <pb:KR1j0019_SBCK_027-16b>¶
-

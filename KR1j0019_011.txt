@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.345101
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB01n0028-011説文解字繫傳-卷第十一.
 <pb:KR1j0019_SBCK_011-1a>¶
 (下均也東方陽氣所起主生木亦漸生東方主仁仁者柔/木亦柔故詩曰荏苒柔木木盛於東成於西故藥用木多)¶
 (取東引枝根/也門逐反)¶
@@ -441,4 +445,3 @@
 說文解字通釋卷第十一¶
 <pb:KR1j0019_SBCK_011-30a>¶
 <pb:KR1j0019_SBCK_011-31a>¶
-

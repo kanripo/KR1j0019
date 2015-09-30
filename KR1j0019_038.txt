@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.500548
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 38
+#+PROPERTY: FILE SB01n0028-038説文解字繫傳-卷第三十八.
 <pb:KR1j0019_SBCK_038-1a>¶
 &KR0003;文解字錯綜卷第三十八¶
 　　　繫傳三十八¶
@@ -86,4 +90,3 @@
 陽而武隂蓋著之明(明從日從月/隂陽之&KR0090;也)¶
 &KR0003;文解字錯綜卷第三十八¶
 <pb:KR1j0019_SBCK_038-6b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.375784
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 35
+#+PROPERTY: FILE SB01n0028-035説文解字繫傳-卷第三十五.
 <pb:KR1j0019_SBCK_035-1a>¶
 &KR0003;文解字通論下卷第三十¶
 　　　　　　繫傳三十五¶
@@ -141,4 +145,3 @@
 <pb:KR1j0019_SBCK_035-9b>¶
 (可口必言之故/於文口不爲否)¶
 &KR0003;文解字繫傳三十五¶
-

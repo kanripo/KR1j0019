@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.137336
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 29
+#+PROPERTY: FILE SB01n0028-029説文解字繫傳-卷第二十九.
 <pb:KR1j0019_SBCK_029-1a>¶
 &KR0003;文解字叙目第二十九¶
 　　　　　繫&KR0019;二十九¶
@@ -219,4 +223,3 @@
 ¶
 &KR0003;文解字叙目第二十九¶
 <pb:KR1j0019_SBCK_029-22b>¶
-

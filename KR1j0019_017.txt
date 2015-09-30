@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.615900
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 17
+#+PROPERTY: FILE SB01n0028-017説文解字繫傳-卷第十七.
 <pb:KR1j0019_SBCK_017-1a>¶
 　&KR0003;文解字通釋卷第十七¶
 　　　　　　繋傳十七¶
@@ -194,4 +198,3 @@
 <pb:KR1j0019_SBCK_017-12b>¶
 ¶
 &KR0003;文解字通釋卷第十七¶
-

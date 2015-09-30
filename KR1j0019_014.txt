@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.485027
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB01n0028-014説文解字繫傳-卷第十四.
 <pb:KR1j0019_SBCK_014-1a>¶
 (配鹽幽尗也從尗支声臣鍇/曰幽謂造之幽暗也暗翅反/俗/䜴)¶
 　　　　文二　重一¶
@@ -338,4 +342,3 @@
 (華蟲黺米也&KR0030;粉也從黹粉省声衞宏說臣鍇曰/&KR0030;聚粉也衞宏嘗傳古文尚書于杜林也弗吻反)¶
 　　　　文六¶
 &KR0003;文解字通釋卷第十四¶
-

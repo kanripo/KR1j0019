@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.415476
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 36
+#+PROPERTY: FILE SB01n0028-036説文解字繫傳-卷第三十六.
 <pb:KR1j0019_SBCK_036-1a>¶
 &KR0003;文解字祛妄第三十六¶
 　　　　　　繫傳三十六¶
@@ -130,4 +134,3 @@
 (神䘳勝氣獨冠皇流多才多蓻俯弘小學以虞舜好問之/德兼漢宣乙夜之勤盖太山起於一拳巨海由乎一勺將)¶
 (禆事業無遺幽介臣亦/何者而不上其所見哉)¶
 <pb:KR1j0019_SBCK_036-10a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.702284
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 19
+#+PROPERTY: FILE SB01n0028-019説文解字繫傳-卷第十九.
 <pb:KR1j0019_SBCK_019-1a>¶
 &KR0003;文解字通釋卷第十九¶
 　　　　　　繫傳十九¶
@@ -285,4 +289,3 @@
 (宅/反)¶
 　　文八　重五¶
 &KR0003;文解字通釋卷第十九¶
-

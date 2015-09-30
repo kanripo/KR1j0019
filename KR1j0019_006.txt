@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.137254
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0028-006説文解字繫傳-卷第六.
 <pb:KR1j0019_SBCK_006-1a>¶
 &KR0003;文解字通釋卷第六¶
 　　　　　　　繫傳六¶
@@ -266,4 +270,3 @@
 　　　文三　重一¶
 &KR0003;文解字通釋卷第六¶
 <pb:KR1j0019_SBCK_006-22a>¶
-

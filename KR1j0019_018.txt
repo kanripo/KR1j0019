@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.659064
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB01n0028-018説文解字繫傳-卷第十八.
 <pb:KR1j0019_SBCK_018-1a>¶
 (東岱南霍西華北&KR0106;中泰室王者之所以廵狩至從/山獄声臣鍇曰白虎通嶽确也王者廵守确切徳也)¶
 (尚書曰王乃時廵守考/制度子四嶽逆捉反/古文象/高形/太山也從山代/声臣鍇按白虎)¶
@@ -180,4 +184,3 @@
 (蜥易蝘蜓守宫也象形祕書&KR0003;曰日月為易象隂陽/也一曰從勿凡易之屬皆從易臣鍇曰祕書謂下)¶
 <pb:KR1j0019_SBCK_018-14b>¶
 <pb:KR1j0019_SBCK_018-14b>¶
-

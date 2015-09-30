@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.010815
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 26
+#+PROPERTY: FILE SB01n0028-026説文解字繫傳-卷第二十六.
 <pb:KR1j0019_SBCK_026-1a>¶
 (手執之時乎時不可/失疾也㑹意气至反/常也從心舟在二之間上下/一/心以舟施恒也臣鍇曰二十一下)¶
 (也心當有常易恒曰四時變化而能久成注/曰長陽長隂合而相與可乆之道也胡㾗反/古文恒/從月詩)¶
@@ -171,4 +175,3 @@
 (越亦發言也已/上五字皆㑹意)¶
 　　　　文一　重五¶
 &KR0003;文解字通釋卷第二十六¶
-

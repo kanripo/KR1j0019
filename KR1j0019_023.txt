@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.875924
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 23
+#+PROPERTY: FILE SB01n0028-023説文解字繫傳-卷第二十三.
 <pb:KR1j0019_SBCK_023-1a>¶
 　　　文　二¶
 (鳥飛從髙下至地也從一一猶地也象形不上去而/至下来也人至之属音從至臣鍇按禮曰玄鳥言之)¶
@@ -207,4 +211,3 @@
 (吕也從肉/從/津易反)¶
 　　　文　二¶
 &KR0003;文解字通釋卷第二十三¶
-

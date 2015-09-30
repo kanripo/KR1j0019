@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.578282
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 40
+#+PROPERTY: FILE SB01n0028-040説文解字繫傳-卷第四十.
 <pb:KR1j0019_SBCK_040-1a>¶
 &KR0003;文解字系述卷第四十¶
 　　　繫傳四十¶
@@ -41,4 +45,3 @@
 稽古通幽洞&KR0115;萬物咸覩實生下臣¶
 是經是綸作系述第四十¶
 &KR0003;文解字繫傳卷第四十¶
-

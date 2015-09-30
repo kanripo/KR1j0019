@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:51.897776
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0028-000説文解字繫傳-補.
 <pb:KR1j0019_SBCK_000-1a>¶
 　熈寧己酉冬傳監察王聖羙本翰¶
 　林祗&KR0248;劉允恭等&KR0144;子容題(時領/少府)¶
@@ -86,4 +90,3 @@
 　來歷余誠不意二百數十年所傳驚人祕笈至今化身千億流¶
 　布人間論菊生同年表章之功他日當於說文統系圖中增一¶
 　坐位矣辛酉八月中秋葉德輝跋¶
-

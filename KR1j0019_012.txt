@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.397195
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0028-012説文解字繫傳-卷第十二.
 <pb:KR1j0019_SBCK_012-1a>¶
 　　　　文二　重一¶
 (出也象草過&KR0708;枝莖益大有所之一者地也凡之屬/皆從之臣鍇曰按春秋傳將之&KR0051;將之齊是之為出)¶
@@ -291,4 +295,3 @@
 (嗇夫職聽訟&KR0053;賦稅/㳺徼主盗賊軒良反/邑中道從&KR2257;共言在/邑中所共恨絳反/&KR0144;文/從&KR2257;)¶
 (省)¶
 <pb:KR1j0019_SBCK_012-22b>¶
-

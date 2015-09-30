@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.965445
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 25
+#+PROPERTY: FILE SB01n0028-025説文解字繫傳-卷第二十五.
 <pb:KR1j0019_SBCK_025-1a>¶
 (絡从糸咎声讀/&KR0002;柳力久切/織横絲也从糸/韋声云貴切/緯也从糸軍/声王問切)¶
 (織餘也从糸/貴声胡貴切/紀也从糸充/声他綜切/絲别也从糸/已声居擬切)¶
@@ -248,4 +252,3 @@
 <pb:KR1j0019_SBCK_025-18a>¶
 　　文二¶
 &KR0003;文解字通釋卷第二十五¶
-

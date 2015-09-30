@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.574145
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB01n0028-016説文解字繫傳-卷第十六.
 <pb:KR1j0019_SBCK_016-1a>¶
 (沙注褘衣玄晝翬也褕青狄畫摇狄皆刻而畫闕狄赤刻/而不畫鞠衣黄象桑葉&KR2610;塵色展衣白縁衣字或作褖褖)¶
 (衣黒六服皆以素沙為/裏使張顯也羊朱反/袨服&KR0025;衣㐱声臣鍇曰袗重/衣也鄒陽書曰趙人&KR1404;服叢)¶
@@ -253,4 +257,3 @@
 (先京声臣鍇按春秋左傳號多/徳今爾雅左傳作凉假借力状反)¶
 　　　文三　重一¶
 通釋繫傳卷第十六¶
-

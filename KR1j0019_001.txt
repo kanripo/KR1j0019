@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:51.931114
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0028-001説文解字繫傳-卷第一.
 <pb:KR1j0019_SBCK_001-1a>¶
 說文解字通釋卷第一¶
 　　　　　　　繫傳一(臣鍇曰部數/數皆/仍舊題今分兩卷)¶
@@ -226,4 +230,3 @@
 <pb:KR1j0019_SBCK_001-18a>¶
 ¶
 說文解字通釋卷第一¶
-

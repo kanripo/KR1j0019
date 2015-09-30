@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:53.090590
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 28
+#+PROPERTY: FILE SB01n0028-028説文解字繫傳-卷第二十八.
 <pb:KR1j0019_SBCK_028-1a>¶
 &KR0003;文解字通釋卷第二十八¶
 　　　　　　　　　繫傳二十八¶
@@ -262,4 +266,3 @@
 <pb:KR1j0019_SBCK_028-20b>¶
 <pb:KR1j0019_SBCK_028-20b>¶
 &KR0003;文解字通釋卷第二十八¶
-

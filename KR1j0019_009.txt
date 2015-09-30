@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 説文解字繫傳
-#+DATE: 2015-09-23 09:41:11
+#+DATE: 2015-09-10 23:06:52.265375
+#+PROPERTY: ID KR1j0019
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0028-009説文解字繫傳-卷第九.
 <pb:KR1j0019_SBCK_009-1a>¶
 (臣鍇曰竹青/也迷/牝反/竹裏也從竹本聲臣/鍇曰竹白也&KR0024;忖反/竹兒也從竹翁/聲臣鍇曰翁然)¶
 (並出也/烏公反/差也從竹/參聲臣/鍇/曰今無復用此字師今反/引書也從竹&KR0143;聲/臣鍇曰&KR0144;書著於)¶
@@ -258,4 +262,3 @@
 (覆也從血大/聲侯臘反/汚血也從血/蔑聲彌恱反)¶
 　　　　文十五　重三¶
 說文解字繫傳第九¶
-
